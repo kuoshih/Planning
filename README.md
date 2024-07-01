@@ -7,9 +7,9 @@ This is a sample code for TB3 with Rtabmap + 2D map.
 It incudes:
 1. build and save Rtabmap (RtabMapping.sh and RtabSave.sh)
 2. build and save Lidar map (LidarMapping.sh and LidarSave.sh)
-3. planning.cpp:
-3.1 rotates 3D map to matching 2D map.
-3.2 moves to (0.3,0,0).
+3. planning.cpp:  
+3.1 rotates 3D map to matching 2D map.  
+3.2 moves to (0.3,0,0).  
 
 The code runs on Jetson Orin NX and a Turtlebot3 Waffle/Burger.  
 This code activate a node "planning"s.   
