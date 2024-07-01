@@ -47,6 +47,7 @@ $ ./RtabSave.sh
 The script will save ~/map.pgm ~/map.yaml and copy them to ~/subgoal_map  
 
 ## Compile the code
+unzip or download the code to catkin_ws (your working space for ROS code)    
 $ cd catkin_ws    
 $ catkin_make    
 
