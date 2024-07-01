@@ -13,7 +13,7 @@ It incudes:
 
 The code runs on Jetson Orin NX and a Turtlebot3 Waffle/Burger.  
 This code activate a node "planning".   
-You can access data from three Callback functions in src/planning.cpp.  
+You can access data from Callback functions (e.g., batteryStateCallback and timercallback) in src/planning.cpp.  
 There are makers for landmarks or targets.   
 There are 3D occupied map (octomap).  
 You can see them in rviz.  
