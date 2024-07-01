@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<launch>
+      <!-- parameters -->
+    <rosparam command="load" file="$(find planning)/param/planning.yaml"/>
+
+
+    <!-- subgoal node -->
+    <!-- node name="main" pkg="uvc_robot" type="main"  output="screen" -->
+
+    <node name="planning" pkg="planning" type="planning" output="screen" >
+    
+      
+    </node>
+
+</launch>
