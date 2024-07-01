@@ -48,7 +48,7 @@ The script will save ~/map.pgm ~/map.yaml and copy them to ~/subgoal_map
 
 ## Compile the code
 $cd catkin_ws    
-$catkin_make    
+$~\catkin_ws\catkin_make    
 
 ## Planning
 Start the node of TB3:  
