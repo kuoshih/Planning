@@ -3,7 +3,7 @@
 
 
 ## Abstract
-This is a sample code for TB3 with Rtabmap + 2D map.
+This is a sample code for TB3 with Rtabmap + 2D map + Navigation.  
 It incudes:
 1. build and save Rtabmap (RtabMapping.sh and RtabSave.sh)
 2. build and save Lidar map (LidarMapping.sh and LidarSave.sh)
