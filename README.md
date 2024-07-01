@@ -12,7 +12,7 @@ It incudes:
 3.2 moves to (0.3,0,0).  
 
 The code runs on Jetson Orin NX and a Turtlebot3 Waffle/Burger.  
-This code activate a node "planning"s.   
+This code activate a node "planning".   
 You can access data from three Callback functions in src/planning.cpp.  
 There are makers for landmarks or targets.   
 There are 3D occupied map (octomap).  
